@@ -1,0 +1,2 @@
+# euskara
+Euskara ikasteko appa.
