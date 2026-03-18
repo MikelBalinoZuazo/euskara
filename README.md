@@ -1,2 +1,4 @@
 # euskara
-Euskara ikasteko appa.
+Euskara online ikasteko appa.
+
+App para aprender euskera online.
